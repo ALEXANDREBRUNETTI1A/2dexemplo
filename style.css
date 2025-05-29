@@ -42,7 +42,7 @@ menu a:houver {
  .cabecalho {
   flex-direction: column;
   align-items: flex-start;
- }
+ 
  .cabecalho_logo{
   display: none;
  }
@@ -60,13 +60,14 @@ menu a:houver {
   width: 100%;
  }
 
- .menu a (
+ .menu a {
+
   display: block;
   width: 100;
   margin: 0;
   padding: 0;
 
   }
-}
+
   
  
